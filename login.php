@@ -2,8 +2,8 @@
 session_start();
 
 // Change these credentials as needed
-$admin_user = 'Aki';
-$admin_pass = 'Ichbind9.';
+$admin_user = 'CHANGEME';
+$admin_pass = 'CHANGEME';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($_POST['username'] === $admin_user && $_POST['password'] === $admin_pass) {
