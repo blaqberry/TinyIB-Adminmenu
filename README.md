@@ -8,6 +8,9 @@ https://code.ivysaur.me/tinyib-mappy
 
 TinyIB was not made by me and i am only making additions to it.
 
+# requirements
+well a webserver with tinyib-mappy 2012 and PHP 7.* or higher (lower versions prob work but i aint tested that yet)
+
 # login.php
 
 Login.php is a basic login prompt which leads to select.php.
